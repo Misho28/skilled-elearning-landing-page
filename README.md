@@ -3,9 +3,9 @@ Authour - Misho Sisvadze
 
 ## Welcome! 👋
 
-**To do this challenge, you need a decent understanding of HTML and CSS.**
+**To do this challenge, you need a decent understanding of HTML and CSS.***
 
-## The challenge
+## The challenge 
 
 challenges help you improve your coding skills by building realistic projects. These premium challenges are perfect portfolio pieces, so please feel free to use what you create in your portfolio to show others.
 
