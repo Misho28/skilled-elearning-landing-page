@@ -2,7 +2,6 @@ Authour - Misho Sisvadze
 
 ## Welcome! 👋
 
-
 **To do this challenge, you need a decent understanding of HTML and CSS.**
 
 ## The challenge
