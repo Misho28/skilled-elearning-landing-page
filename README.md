@@ -1,4 +1,6 @@
 # skilled-elearning-landing-page
+## Author -misho sisvadze
+
 ## Welcome! 👋
 
 Thanks for purchasing this premium Frontend Mentor coding challenge.
